@@ -1,2 +1,2 @@
 # garilagbe
-A java project where admin can add,remove cars and user can borrow cars
+A Java project where the admin can add, remove cars andthe  user can borrow cars
